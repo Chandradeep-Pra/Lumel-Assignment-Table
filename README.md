@@ -8,6 +8,11 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Chandradeep-Pra/Lumel-Assignment-Table.git
-cd hierarchical-table
+cd hierarchical-table``
+```
+
+Install the dependencies and start the development server:
+
+```bash
 npm install
 npm run dev
